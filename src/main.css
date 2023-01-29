@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+.customfont{
+	font-family: 'Aboreto', cursive;
+}
+
+.line{
+	width: 100%;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.text-catalog{
+	width: 100vw;
+}
+
+.heading-catalog{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
